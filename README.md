@@ -1,6 +1,6 @@
-# CNCC 2026 — CTF Writeups (Challenges 1–5)
+# CNCC 2026 — CTF Writeups (Challenges 1–6)
 
-Full writeups with proof-of-concept code, reproduction steps, and tooling for five challenges:
+Full writeups with proof-of-concept code, reproduction steps, and tooling for six challenges:
 
 | # | Challenge | Category | Flag |
 |---|-----------|----------|------|
@@ -9,6 +9,7 @@ Full writeups with proof-of-concept code, reproduction steps, and tooling for fi
 | 3 | OffTheRecord | Pwn — Format string arbitrary read | `MPTC{th3_1nt3rn_15_n0t_g3tt1ng_4_r41s3}` |
 | 4 | TrojanHorse | Crypto/Pwn — Custom protocol + RSA CRT fault (Bellcore) | `MPTC{n3v3r_tru5t_4_p4t13nt_gr33k_b34r1ng_g1ft5}` |
 | 5 | nevergonna | Reversing — PyInstaller unpack + XOR-chain cipher | `MPTC{n3v3r_g0nn4_g1v3_y0u_up}` |
+| 6 | [DeathNote](writeups/deathnote/) | Reversing — garble-obfuscated Go, custom 6-round cipher (decoy trap) | `MPTC{4ll_4cc0rd1ng_t0_k3ik4ku}` |
 
 ---
 
