@@ -47,3 +47,19 @@ curl -sL https://raw.githubusercontent.com/extremecoders-re/pyinstxtractor/maste
 - **#4 TrojanHorse** — Rolling your own crypto + a CRT signing oracle = Bellcore fault → instant RSA factorization.
 - **#5 nevergonna** — PyInstaller is just a zip; bytecode disassembly beats fighting decompilers; reversible ciphers invert trivially.
 - **#6 DeathNote** — garble's pclntab scrambling falls to RBP-frame stack walking; don't trust the first reachable flag (decoy trap) — invert the *real* target.
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+**Eav Puthcambo**
+<br/>
+AUPP Cybersecurity Programme
+<br/>
+American University of Phnom Penh
+
+[![GitHub](https://img.shields.io/badge/GitHub-MoriartyPuth--Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoriartyPuth-Labs)
+
+</div>
